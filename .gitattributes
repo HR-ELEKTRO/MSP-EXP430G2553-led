@@ -1,0 +1,5 @@
+targetConfigs/* linguist-vendored
+.settings/* linguist-vendored
+*.cmd liguist-vendored
+.* linguist-vedored
+
